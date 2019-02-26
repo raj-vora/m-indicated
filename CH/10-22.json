@@ -1,8 +1,8 @@
 {
-    "timing": "05:01",
+    "timing": "10:22",
     "path": {
         "start":"CH",
         "end":"BO"
     },
-    "type": "Slow"
+    "type": "Fast"
 }
